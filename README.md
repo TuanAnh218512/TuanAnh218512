@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm TuanAnh218512</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuananh218512&label=Profile%20views&color=0e75b6&style=flat" alt="tuananh218512" /> </p>
@@ -18,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuananh218512&show_icons=true&locale=en&layout=compact" alt="tuananh218512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh218512&show_icons=true&locale=en" alt="tuananh218512" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuananh218512&" alt="tuananh218512" /></p>
